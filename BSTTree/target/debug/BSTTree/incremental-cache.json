@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "BSTTree": {
+      "rootPackageName": "BSTTree",
+      "fileNameHash": "-7568150932141415140",
+      "timeStamp": 1763548511,
+      "isBuilt": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "2456690714740952260",
+  "rootPackageName": "BSTTree"
+}

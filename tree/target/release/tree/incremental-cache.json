@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "tree": {
+      "rootPackageName": "tree",
+      "fileNameHash": "-7455341850054826453",
+      "timeStamp": 1763219271,
+      "isBuilt": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "-3246731892730782006",
+  "rootPackageName": "tree"
+}
